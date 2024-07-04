@@ -21,7 +21,7 @@ body::before {
   content: "";
   position: fixed;
   background: #040404 url("../img//Snapchat-616986071.jpg")  top right no-repeat;
-  background-size: 50%;
+  background-size: 100%;
   left: 0;
   right: 0;
   top: 0;
